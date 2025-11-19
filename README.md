@@ -281,12 +281,7 @@ The downloaded model package includes everything needed for deployment:
 
 This project is open source and available under the MIT License.
 
-## Support
 
-For questions, issues, or feature requests:
-- Create an issue in the repository
-- Check the troubleshooting section
-- Review the API documentation
 
 ---
 
